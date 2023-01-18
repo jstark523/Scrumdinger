@@ -5,7 +5,8 @@
 //  Created by Jason Starkman on 1/14/23.
 //
 
-import SwiftUI
+import Foundation
+
 
 struct DailyScrum: Identifiable {
     let id: UUID

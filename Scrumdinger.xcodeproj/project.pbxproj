@@ -19,6 +19,7 @@
 		9693D75B29737579000676A8 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9693D75A29737579000676A8 /* CardView.swift */; };
 		9693D75D29743B82000676A8 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9693D75C29743B82000676A8 /* TrailingIconLabelStyle.swift */; };
 		9693D75F2974C32E000676A8 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9693D75E2974C32E000676A8 /* ScrumsView.swift */; };
+		9693D76129784F71000676A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9693D76029784F71000676A8 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		9693D75A29737579000676A8 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		9693D75C29743B82000676A8 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		9693D75E2974C32E000676A8 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
+		9693D76029784F71000676A8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../../Downloads/CreatingANavigationHierarchy/Complete/Scrumdinger/Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 		9693D72A2973586C000676A8 /* Scrumdinger */ = {
 			isa = PBXGroup;
 			children = (
+				9693D76029784F71000676A8 /* Assets.xcassets */,
 				9693D75529736534000676A8 /* Models */,
 				9693D72B2973586C000676A8 /* ScrumdingerApp.swift */,
 				9693D75C29743B82000676A8 /* TrailingIconLabelStyle.swift */,
@@ -255,6 +258,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9693D7332973586F000676A8 /* Preview Assets.xcassets in Resources */,
+				9693D76129784F71000676A8 /* Assets.xcassets in Resources */,
 				9693D7302973586F000676A8 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
